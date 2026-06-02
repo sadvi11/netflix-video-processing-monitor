@@ -98,3 +98,19 @@ Sadhvi Sharma | Cloud Engineer and AI Engineer | Nokia 5G and AWS
 AWS Solutions Architect Associate certified
 Permanent Resident — available anywhere in Canada immediately
 github.com/sadvi11 | linkedin.com/in/sadhvi-sharma-5789a6249
+
+## Screenshots
+
+### CloudWatch Alarm Live on AWS
+![CloudWatch Alarm](screenshots/cloudwatch-alarm-aws-console.png)
+
+### Alarm Triggered - Failure Detected
+![Alarm Triggered](screenshots/cloudwatch-alarm-triggered.png)
+
+### Video Processor Terminal Output
+![Terminal Output](screenshots/video-processor-terminal.png)
+
+## Author
+Sadhvi Sharma | Cloud Engineer and AI Engineer | Nokia 5G and AWS
+AWS Solutions Architect Associate certified
+github.com/sadvi11 | linkedin.com/in/sadhvi-sharma-5789a6249
