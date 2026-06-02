@@ -1,5 +1,7 @@
 # Netflix Video Processing Monitor
 
+[![Tests](https://github.com/sadvi11/netflix-video-processing-monitor/actions/workflows/test.yml/badge.svg)](https://github.com/sadvi11/netflix-video-processing-monitor/actions/workflows/test.yml)
+
 Real-time monitoring system for video processing pipelines built with Python, boto3, and AWS CloudWatch. Tracks transcoding jobs, quality scores, and failure rates with automated alerting.
 
 ## The Problem This Solves
@@ -97,20 +99,4 @@ This project applies that same production monitoring mindset to AI and video pro
 Sadhvi Sharma | Cloud Engineer and AI Engineer | Nokia 5G and AWS
 AWS Solutions Architect Associate certified
 Permanent Resident — available anywhere in Canada immediately
-github.com/sadvi11 | linkedin.com/in/sadhvi-sharma-5789a6249
-
-## Screenshots
-
-### CloudWatch Alarm Live on AWS
-![CloudWatch Alarm](screenshots/cloudwatch-alarm-aws-console.png)
-
-### Alarm Triggered - Failure Detected
-![Alarm Triggered](screenshots/cloudwatch-alarm-triggered.png)
-
-### Video Processor Terminal Output
-![Terminal Output](screenshots/video-processor-terminal.png)
-
-## Author
-Sadhvi Sharma | Cloud Engineer and AI Engineer | Nokia 5G and AWS
-AWS Solutions Architect Associate certified
 github.com/sadvi11 | linkedin.com/in/sadhvi-sharma-5789a6249
